@@ -34,6 +34,44 @@ This project is a MySQL database for managing restaurant operations, including c
 - Stored Procedures
 - Indexes
 
+# Restaurant Order Billing System
+
+## Project Overview
+This project is a MySQL database for managing restaurant operations, including customers, menu items, orders, order details, and payments.
+
+## Features
+- Customer Management
+- Menu Management
+- Order Management
+- Payment Tracking
+- CRUD Operations
+- SQL Joins
+- Aggregate Functions
+- Views
+- Stored Procedures
+- Indexes
+
+## Database Tables
+- Customers
+- Menu
+- Orders
+- Order_Items
+- Payments
+
+## SQL Concepts Used
+- CREATE, INSERT, UPDATE, DELETE
+- WHERE, ORDER BY
+- INNER JOIN, LEFT JOIN, RIGHT JOIN
+- GROUP BY, HAVING
+- CASE
+- Subqueries
+- Views
+- Stored Procedures
+- Indexes
+
+# ER Diagram
+![ER Diagram] (ER Diagram .png)
+
 # Tools Used
 - MySQL
 - MySQL Workbench
